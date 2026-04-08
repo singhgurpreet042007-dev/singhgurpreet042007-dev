@@ -51,15 +51,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=singhgurpreet042007-dev&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhgurpreet042007-dev&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhgurpreet042007-dev&layout=compact&theme=tokyonight" />
 </p>
 
 ---
