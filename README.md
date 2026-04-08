@@ -88,11 +88,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/singhgurpreet042007-dev/singhgurpreet042007-dev/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 🔥 Current Focus
 
