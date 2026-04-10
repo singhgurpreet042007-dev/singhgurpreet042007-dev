@@ -40,7 +40,7 @@
 🔹 Real-time code execution
 🔹 Leaderboard system
 
-### 🧠 AI Study Planner Pro
+### 🧠 AI Study Planner 
 
 🔹 Predict student performance using ML
 🔹 Risk analysis + recommendations
@@ -83,7 +83,7 @@
 
 ## 🔥 Current Focus
 
-* 📌 DSA (LeetCode grind 💪)
+* 📌 DSA (LeetCode grind)
 * 📌 Full-stack development
 * 📌 AI + ML integration
 
