@@ -15,7 +15,7 @@
 * 🚀 Building real-world projects like:
 
   * ⚡ **JudgeNest (Online Coding Platform)**
-  * 🧠 **AI Study Planner Pro**
+  * 🧠 **AI Study Planner **
 * 🎯 Goal: Become a top Software Engineer
 
 ---
