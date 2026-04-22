@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Gurpreet Singh</h1>
+<h1 align="center"> Gurpreet Singh</h1>
 <h3 align="center">B.Tech AI & Data Science Student | Full Stack Developer</h3>
 
 <p align="center">
