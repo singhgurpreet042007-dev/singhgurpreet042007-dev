@@ -91,10 +91,10 @@ ML-based student performance predictor
   <a href="https://github.com/singhgurpreet042007-dev">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="#">
+  <a href="www.linkedin.com/in/gurpreet-singh-0891a1337">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="#">
+  <a href="singh.gurpreet042007@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
