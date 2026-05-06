@@ -10,10 +10,10 @@
 ## 🧠 About Me
 
 - 🎓 B.Tech CSE (AI & Data Science)
-- 💡 Passionate about **AI + Scalable Software Systems**
-- 🚀 Building **Neurolytix (AI Cognitive Engine)**  
+- 💡 Passionate about **AI + Scalable Systems**
+- 🚀 Building **Neurolytix (AI Cognitive Engine)**
 - 💻 Developed **JudgeNest (Online Coding Platform)**
-- 📈 Currently improving **DSA + Backend Architecture**
+- 📈 Improving **DSA + Backend Development**
 - 🎯 Goal: Crack **Top Product-Based Companies**
 
 ---
@@ -68,10 +68,10 @@
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake (Neon Style)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/singhgurpreet042007-dev/singhgurpreet042007-dev/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/singhgurpreet042007-dev/singhgurpreet042007-dev/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -80,8 +80,8 @@
 
 - 🧠 **Neurolytix** – AI Cognitive Analytics System  
 - 💻 **JudgeNest** – Online Coding Judge Platform  
-- 📊 **AI Study Planner** – ML-based Performance Predictor  
-- 🌐 **Portfolio Website** – Premium Animated UI  
+- 📊 **AI Study Planner** – ML-based Predictor  
+- 🌐 **Portfolio Website** – Premium UI  
 
 ---
 
