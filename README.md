@@ -1,16 +1,16 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=020617&height=280&section=header&text=GURPREET%20SINGH&fontSize=52&fontColor=22D3EE&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Architect&descAlignY=62&descAlign=50&descScale=18" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=020617&height=280&section=header&text=GURPREET%20SINGH&fontSize=52&fontColor=06B6D4&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Architect&descAlignY=62&descAlign=50&descScale=18" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&height=50&lines=Building+Next-Gen+AI+Architectures...;Crafting+High-Performance+Web+Systems...;B.Tech+AI+%26+Data+Science+%40+CGC+University;Engineering+Scalable+Full-Stack+Platforms..." alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&height=50&lines=Building+Next-Gen+AI+Architectures...;Crafting+High-Performance+Web+Systems...;B.Tech+AI+%26+Data+Science+%40+CGC+University;Engineering+Scalable+Full-Stack+Platforms..." alt="Typing Animation" />
   </a>
 
   <br /><br />
 
-  <!-- Quick Badges / Status Bar -->
+  <!-- Status Bar / Badges -->
   <p align="center">
     <img src="https://img.shields.io/badge/FOCUS-Generative%20AI%20%26%20LLMs-020617?style=for-the-badge&logo=openai&logoColor=22D3EE&labelColor=020617&color=06B6D4" alt="Focus Badge" />
     <img src="https://img.shields.io/badge/STATUS-Architecting%20Systems-020617?style=for-the-badge&logo=rocket&logoColor=22D3EE&labelColor=020617&color=0EA5E9" alt="Status Badge" />
@@ -21,7 +21,7 @@
 
 ---
 
-<!-- Professional Introduction Section -->
+<!-- Introduction Card -->
 <div align="center">
   <table width="100%" style="border-collapse: collapse; border: 1px solid #06B6D4; background-color: #020617;">
     <tr>
@@ -40,7 +40,7 @@
 
 <br />
 
-<!-- About Me & Current Focus -->
+<!-- Profile Specification & Objectives -->
 <table width="100%" style="border: none;">
   <tr>
     <td width="50%" valign="top">
@@ -67,7 +67,30 @@
 
 ---
 
-<!-- Tech Stack Section -->
+<!-- Terminal Mode / Developer Environment -->
+<div align="center">
+  <h2><font color="#22D3EE">💻 SYSTEM DIAGNOSTICS & ENVIRONMENT</font></h2>
+  <br />
+  <table width="90%" style="border: 1px solid #06B6D4; background-color: #020617; border-radius: 8px; text-align: left;">
+    <tr>
+      <td style="padding: 15px; font-family: monospace;">
+        <font color="#22D3EE"><b>gurpreet@ai-workstation</b></font>:<font color="#0EA5E9"><b>~</b></font>$ neofetch<br />
+        <font color="#06B6D4">-----------------------</font><br />
+        <font color="#F8FAFC"><b>OS:</b> High-Performance AI Architecture Kernel</font><br />
+        <font color="#F8FAFC"><b>Host:</b> CGC University Systems (2024-2028)</font><br />
+        <font color="#F8FAFC"><b>Role:</b> AI Engineer & Full Stack Developer</font><br />
+        <font color="#F8FAFC"><b>Shell:</b> zsh 5.9 (x86_64-apple-darwin22.0)</font><br />
+        <font color="#F8FAFC"><b>Primary Stack:</b> Python, TypeScript, React, Node.js, NestJS</font><br />
+        <font color="#F8FAFC"><b>Data Engines:</b> PostgreSQL, MongoDB, Supabase, Prisma</font><br />
+        <font color="#F8FAFC"><b>Uptime:</b> Continuous Learning & Building 🚀</font>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br /><br />
+
+<!-- Tech Stack Matrix -->
 <div align="center">
   <h2><font color="#22D3EE">🛠️ CORE TECHNOLOGY MATRIX</font></h2>
   <p><font color="#F8FAFC">A curated stack powering high-scale intelligent systems and responsive user interfaces.</font></p>
@@ -81,7 +104,7 @@
 
 <br /><br />
 
-<!-- Skill Categorization Badges -->
+<!-- Skill Categorization -->
 <div align="center">
 
   <table width="90%">
@@ -111,16 +134,16 @@
 
 ---
 
-<!-- GitHub Trophies -->
+<!-- Engineering Milestones / Trophies -->
 <div align="center">
   <h2><font color="#22D3EE">🏆 ENGINEERING MILESTONES</font></h2>
   <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=singhgurpreet042007-dev&theme=darkhub&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=singhgurpreet042007-dev&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="GitHub Trophies" />
 </div>
 
 <br />
 
-<!-- GitHub Stats Matrix -->
+<!-- Telemetry & Analytics -->
 <div align="center">
   <h2><font color="#06B6D4">📊 TELEMETRY & ANALYTICS</font></h2>
   <br />
@@ -128,18 +151,18 @@
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=singhgurpreet042007-dev&show_icons=true&theme=cyberpunk&bg_color=020617&title_color=22D3EE&text_color=F8FAFC&icon_color=06B6D4&border_color=06B6D4&hide_border=false" alt="GitHub Stats" width="410" />
+        <img src="https://github-readme-stats.vercel.app/api?username=singhgurpreet042007-dev&show_icons=true&theme=dark&bg_color=020617&title_color=22D3EE&text_color=F8FAFC&icon_color=06B6D4&border_color=06B6D4&hide_border=false" alt="GitHub Stats" width="400" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhgurpreet042007-dev&layout=compact&theme=cyberpunk&bg_color=020617&title_color=22D3EE&text_color=F8FAFC&icon_color=06B6D4&border_color=06B6D4&hide_border=false" alt="Top Languages" width="410" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhgurpreet042007-dev&layout=compact&theme=dark&bg_color=020617&title_color=22D3EE&text_color=F8FAFC&icon_color=06B6D4&border_color=06B6D4&hide_border=false" alt="Top Languages" width="400" />
       </td>
     </tr>
   </table>
 
   <br />
 
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com/?user=singhgurpreet042007-dev&theme=dark&background=020617&border=06B6D4&stroke=06B6D4&ring=22D3EE&fire=0EA5E9&currStreakNum=22D3EE&sideNums=F8FAFC&sideLabels=22D3EE&dates=F8FAFC" alt="GitHub Streak" width="830" />
+  <!-- Compact Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=singhgurpreet042007-dev&theme=dark&background=020617&border=06B6D4&stroke=06B6D4&ring=22D3EE&fire=0EA5E9&currStreakNum=22D3EE&sideNums=F8FAFC&sideLabels=22D3EE&dates=F8FAFC" alt="GitHub Streak" width="550" />
 
   <br /><br />
 
@@ -159,7 +182,7 @@
 
 <br />
 
-<!-- Connect With Me Section -->
+<!-- Connect With Me -->
 <div align="center">
   <h2><font color="#06B6D4">🌐 CONNECT WITH ME</font></h2>
   <p><font color="#F8FAFC">Open for collaboration on AI models, complex Web Apps, and innovative tech.</font></p>
