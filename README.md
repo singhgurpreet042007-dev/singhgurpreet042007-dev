@@ -151,7 +151,7 @@
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=singhgurpreet042007-dev&show_icons=true&theme=dark&bg_color=020617&title_color=22D3EE&text_color=F8FAFC&icon_color=06B6D4&border_color=06B6D4&hide_border=false" alt="GitHub Stats" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api?username=singhgurpreet042007dev&show_icons=true&theme=dark&bg_color=020617&title_color=22D3EE&text_color=F8FAFC&icon_color=06B6D4&border_color=06B6D4&hide_border=false" alt="GitHub Stats" width="400" />
       </td>
       <td align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhgurpreet042007-dev&layout=compact&theme=dark&bg_color=020617&title_color=22D3EE&text_color=F8FAFC&icon_color=06B6D4&border_color=06B6D4&hide_border=false" alt="Top Languages" width="400" />
