@@ -40,3 +40,5 @@ Passionate **AI Engineer** and **Full Stack Developer** pursuing a **B.Tech in A
 🤝  Open to: Collaborating on AI/ML & Full-Stack Web Projects
 💬  Ask me about: Python, React, TypeScript, Node.js, NestJS
 ⚡  Fun fact: I architect systems first, code later
+
+
