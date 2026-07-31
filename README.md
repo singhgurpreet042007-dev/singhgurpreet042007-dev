@@ -1,242 +1,284 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:111827,100:0F172A&height=280&section=header&text=GURPREET%20SINGH&fontSize=62&fontColor=22D3EE&fontAlignY=38&desc=AI%20%26%20Full%20Stack%20Developer&descSize=20&descAlignY=58&animation=fadeIn" width="100%"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F172A,111827,06B6D4&height=300&section=header&text=Gurpreet%20Singh&fontSize=70&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35)
 
-<br/>
-
-<a href="https://github.com/gurpreetsingh">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+intelligent+products.;Full+Stack+Engineer+%7C+AI+Systems;React+%E2%80%A2+Node+%E2%80%A2+NestJS+%E2%80%A2+PostgreSQL;Turning+ideas+into+production-grade+software." alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/-B.Tech_AI_%26_Data_Science-0F172A?style=for-the-badge&labelColor=0F172A&color=111827" />
-<img src="https://img.shields.io/badge/-CGC_University_Mohali-0F172A?style=for-the-badge&labelColor=0F172A&color=111827" />
-<img src="https://img.shields.io/badge/-2024_--_2028-0F172A?style=for-the-badge&labelColor=0F172A&color=111827" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=24&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=AI+%26+Full+Stack+Developer;Building+Tomorrow's+Digital+Future;Systems+%7C+AI+%7C+Performance" alt="Typing SVG" />
 
 </div>
 
-<br/>
+---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px" style="filter: hue-rotate(180deg) saturate(0.3);" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/svg/business/target.svg" width="28" height="28" align="center" /> About Me
 
-<br/>
-
-## <img src="https://cdn-icons-png.flaticon.com/512/1998/1998592.png" width="26"/> &nbsp;About Me
-
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
-
-```yaml
-developer:
-  name: "Gurpreet Singh"
-  role: "AI & Full Stack Developer"
-  education: "B.Tech AI & Data Science, CGC University Mohali"
-  focus:
-    - AI Applications
-    - Full Stack Development
-    - System Design
-    - Backend Architecture
-    - Performance Optimization
-    - Modern UI/UX
-  currently:
-    building: "Production-grade AI & web platforms"
-    learning: "Docker, distributed systems"
-    interested_in: ["AI", "SaaS", "DevTools", "ML", "Open Source"]
-```
-
-</td>
-<td width="40%" valign="top" align="center">
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/eec4087484c62d69df1e64dc242e3e8b64ba066f1e00b9d47cd216d422ec63c1.gif" width="260" style="border-radius: 12px;"/>
-
-</td>
-</tr>
+<table>
+  <tr>
+    <td width="50%">
+      <strong>🎓 Education</strong><br/>
+      B.Tech Artificial Intelligence & Data Science<br/>
+      CGC University Mohali (2024–2028)
+    </td>
+    <td width="50%">
+      <strong>💼 Current Focus</strong><br/>
+      • AI Applications<br/>
+      • Full Stack Architecture<br/>
+      • System Design & Performance
+    </td>
+  </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px" style="filter: hue-rotate(180deg) saturate(0.3);" />
+**Passionate about building scalable, production-grade systems** that leverage AI and modern development practices. I focus on creating seamless user experiences backed by robust backend infrastructure.
 
-## <img src="https://cdn-icons-png.flaticon.com/512/2620/2620990.png" width="26"/> &nbsp;Tech Stack
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/svg/codes/html-5.svg" width="28" height="28" align="center" /> Tech Arsenal
+
+### **Languages**
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+### **Frontend Stack**
+<div align="center">
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+### **Backend Stack**
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+</div>
+
+### **Database & ORM**
+<div align="center">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C87?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+### **Tools & DevOps**
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/svg/objects/rocket.svg" width="28" height="28" align="center" /> Featured Projects
 
 <div align="center">
 
-**Languages**
+### 🏛️ JudgeNest
+**Production-Ready Online Coding Judge**
 
-<img src="https://skillicons.dev/icons?i=js,ts,py,java,mysql&theme=dark" />
+| Feature | Tech |
+|---------|------|
+| Code Execution Engine | Node.js, Docker |
+| Real-time Code Editor | Monaco Editor |
+| Multi-language Support | C++, Python, Java, JS |
+| User Dashboard | React + TypeScript |
+| Contest Architecture | Express Backend |
+| Database Layer | MongoDB |
 
-**Frontend**
+**Built for scalability** with containerized code execution, authentication, and a responsive dashboard for managing submissions and contests.
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/Framer_Motion-0F172A?style=for-the-badge&logo=framer&logoColor=22D3EE" />
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss)
 
-**Backend**
+---
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" />
-
-**Database & ORM**
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma,supabase&theme=dark" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px" style="filter: hue-rotate(180deg) saturate(0.3);" />
-
-## <img src="https://cdn-icons-png.flaticon.com/512/2716/2716651.png" width="26"/> &nbsp;Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### <img src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" width="20"/> JudgeNest
-
-**Production-ready Online Coding Judge**
-
-Real-time code execution engine with contest-ready architecture, Monaco-powered editor, and a full submission pipeline.
-
-**Highlights**
-- Online code execution & submission
-- Authentication & dashboard
-- Monaco editor integration
-- Multiple problem sets
-- Contest-ready backend API
-- Fully responsive UI
-
-`React` `TypeScript` `Node.js` `Express` `MongoDB` `Tailwind`
-
-</td>
-<td width="50%" valign="top">
-
-### <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="20"/> Neurolytix
-
+### 🧠 Neurolytix
 **AI Cognitive Analytics Platform**
 
-An adaptive learning platform that turns raw study data into actionable cognitive insights.
+| Component | Description |
+|-----------|-------------|
+| **Analytics Engine** | Real-time student performance tracking |
+| **AI Insights** | ML-powered learning recommendations |
+| **Adaptive Learning** | Dynamic curriculum adjustment |
+| **Focus Tracking** | Concentration metrics & optimization |
+| **Performance Dashboard** | Comprehensive learning analytics |
+| **Spaced Repetition** | Evidence-based memory optimization |
 
-**Highlights**
-- Student analytics & performance dashboard
-- AI-driven study insights
-- Adaptive learning engine
-- Spaced repetition system
-- Focus tracking
+**Leverages machine learning** to provide actionable insights for improved student outcomes through intelligent performance prediction and adaptive learning pathways.
 
-`React` `NestJS` `Prisma` `PostgreSQL` `Tailwind`
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-### <img src="https://cdn-icons-png.flaticon.com/512/2103/2103652.png" width="20"/> AI Study Planner
+### 🤖 AI Study Planner
+**Machine Learning-Based Student Performance Prediction**
 
-**ML-based Student Performance Prediction**
+| Algorithm | Use Case |
+|-----------|----------|
+| Random Forest | Feature importance analysis |
+| Decision Tree | Decision boundary visualization |
+| Linear Regression | Trend prediction |
 
-Predictive system trained on academic performance data to forecast outcomes and guide study plans.
+**Predictive modeling** using ensemble methods to forecast academic performance and personalize study recommendations.
 
-**Models**
-- Random Forest
-- Decision Tree
-- Linear Regression
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit)
 
-`Python` `Pandas` `Scikit-learn` `Streamlit`
+---
 
-</td>
-<td width="50%" valign="top">
-
-### <img src="https://cdn-icons-png.flaticon.com/512/3176/3176369.png" width="20"/> EventX
-
+### 🎉 EventX
 **Modern Event Management Platform**
 
-End-to-end event platform covering ticketing, entry, and post-event certification.
+| Feature | Implementation |
+|---------|-----------------|
+| Digital QR Tickets | Real-time generation & validation |
+| Attendance Tracking | QR code scanning system |
+| Certificate Generation | Automated PDF creation |
+| Organizer Dashboard | Admin management interface |
+| Real-time Analytics | Live event metrics |
+| Mobile Responsive | Mobile-first design |
 
-**Highlights**
-- QR-based tickets & attendance
-- Auto-generated certificates
-- Organizer dashboard
-- Supabase backend
-- Responsive design
+**End-to-end event management** with real-time attendance tracking, certificate generation, and comprehensive organizer controls backed by Supabase.
 
-`React` `Supabase` `Tailwind`
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss)
 
-</td>
-</tr>
+</div>
+
+---
+
+## 📜 Certifications & Achievements
+
+<div align="center">
+
+| Certification | Issuer | Focus Area |
+|---------------|--------|-----------|
+| **Introduction to Modern AI** | Cisco | AI Fundamentals |
+| **Data Analytics Job Simulation** | Deloitte | Analytics & Insights |
+| **Software Engineering Simulation** | JP Morgan via Forage | Enterprise Development |
+| **AI Fundamentals** | Simplilearn | Machine Learning |
+| **Advanced Python & Data Science** | Coursera | Python Ecosystem |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gurpreet-singh1&show_icons=true&theme=highcontrast&bg_color=0F172A&title_color=06B6D4&icon_color=06B6D4&text_color=F8FAFC&border_color=111827)](https://github.com/gurpreet-singh1)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=gurpreet-singh1&theme=highcontrast&background=0F172A&border=111827&ring=06B6D4&fire=06B6D4&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=06B6D4&sideLabels=06B6D4&dates=F8FAFC)](https://github.com/gurpreet-singh1)
+
+</div>
+
+---
+
+## 🔥 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gurpreet-singh1&theme=high-contrast&bg_color=0F172A&color=06B6D4&line=111827&point=F8FAFC&hide_border=true)](https://github.com/gurpreet-singh1)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gurpreet-singh1&theme=highcontrast&row=2&column=3&margin-w=15&margin-h=15&no-frame=false&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/svg/objects/lightbulb.svg" width="28" height="28" align="center" /> Areas of Expertise
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <strong>🔧 Full Stack Development</strong><br/>
+      End-to-end application architecture
+    </td>
+    <td align="center" width="25%">
+      <strong>🧠 AI & ML</strong><br/>
+      Predictive models & intelligence
+    </td>
+    <td align="center" width="25%">
+      <strong>⚡ Performance</strong><br/>
+      Optimization & scalability
+    </td>
+    <td align="center" width="25%">
+      <strong>🏛️ System Design</strong><br/>
+      Distributed systems & architecture
+    </td>
+  </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px" style="filter: hue-rotate(180deg) saturate(0.3);" />
+---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/3132/3132693.png" width="26"/> &nbsp;Certifications & Learning Timeline
+## 📈 What I'm Currently Building
 
-<table width="100%">
-<tr><td width="15%" align="center"><b>Cisco</b></td><td>Introduction to Modern AI</td></tr>
-<tr><td width="15%" align="center"><b>Deloitte</b></td><td>Data Analytics Job Simulation</td></tr>
-<tr><td width="15%" align="center"><b>JP Morgan</b></td><td>Software Engineering Simulation — Forage</td></tr>
-<tr><td width="15%" align="center"><b>Simplilearn</b></td><td>Artificial Intelligence</td></tr>
-<tr><td width="15%" align="center"><b>Coursera</b></td><td>Multiple certifications across AI & Data</td></tr>
-</table>
+- **🤖 Advanced AI applications** leveraging large language models
+- **📱 SaaS products** with modern React & backend infrastructure
+- **🛠️ Developer tools** that improve productivity
+- **💾 Scalable backends** with optimized database strategies
+- **🔐 Security-first** architectures and best practices
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px" style="filter: hue-rotate(180deg) saturate(0.3);" />
+---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/2103/2103665.png" width="26"/> &nbsp;GitHub Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/svg/objects/telescope.svg" width="28" height="28" align="center" /> Vision
 
-<div align="center">
+> *Building intelligent systems that scale. Creating products that matter. Engineering tomorrow, today.*
 
-<img src="https://github-readme-stats.vercel.app/api?username=gurpreetsingh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=06B6D4&text_color=F8FAFC&ring_color=22D3EE" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurpreetsingh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=F8FAFC" width="42%"/>
+---
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gurpreetsingh&theme=tokyonight&hide_border=true&background=0F172A&ring=22D3EE&fire=06B6D4&currStreakLabel=22D3EE" width="49%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gurpreetsingh&theme=tokyo-night&bg_color=0F172A&color=22D3EE&line=06B6D4&point=F8FAFC&hide_border=true" width="97%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=gurpreetsingh&theme=darkhub&no-frame=true&margin-w=8&margin-h=8&row=1&column=6" width="97%"/>
-
-</div>
-
-> Replace `gurpreetsingh` above with your exact GitHub username so every stats card renders correctly.
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px" style="filter: hue-rotate(180deg) saturate(0.3);" />
-
-## <img src="https://cdn-icons-png.flaticon.com/512/2618/2618581.png" width="26"/> &nbsp;Words I Build By
+## 🤝 Let's Connect
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gurpreet-singh1)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gurpreet-singh1)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px" style="filter: hue-rotate(180deg) saturate(0.3);" />
+---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/2665/2665882.png" width="26"/> &nbsp;Let's Connect
+## 📍 Visitor Count
 
 <div align="center">
 
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=22D3EE" /></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=22D3EE" /></a>
-<a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-0F172A?style=for-the-badge&logo=x&logoColor=22D3EE" /></a>
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=22D3EE" /></a>
-
-<br/><br/>
-
-> Update the links above with your real profiles — placeholders won't route anywhere yet.
+![Visitors](https://komarev.com/ghpvc/?username=gurpreet-singh1&color=06B6D4&style=flat-square&label=Profile+Views)
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=gurpreetsingh&label=Profile+Views&color=0F172A&style=for-the-badge" />
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=06B6D4,111827,0F172A&height=120&section=footer&textBg=false)
+
+**Crafted with precision. Built for scale. Designed for impact.**
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:111827,100:0F172A&height=150&section=footer" width="100%"/>
