@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=020617&height=280&section=header&text=GURPREET%20SINGH&fontSize=52&fontColor=06B6D4&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Architect&descAlignY=62&descAlign=50&descScale=18" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing SVG -->
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/singhgurpreet042007-dev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&height=50&lines=Building+Next-Gen+AI+Architectures...;Crafting+High-Performance+Web+Systems...;B.Tech+AI+%26+Data+Science+%40+CGC+University;Engineering+Scalable+Full-Stack+Platforms..." alt="Typing Animation" />
   </a>
 
@@ -134,53 +134,31 @@
 
 ---
 
-<!-- Engineering Milestones / Trophies -->
+<!-- High-Speed Telemetry Summary -->
 <div align="center">
-  <h2><font color="#22D3EE">🏆 ENGINEERING MILESTONES</font></h2>
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=singhgurpreet042007-dev&theme=tokyonight&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="GitHub Trophies" />
-</div>
-
-<br />
-
-<!-- Telemetry & Analytics -->
-<div align="center">
-  <h2><font color="#06B6D4">📊 TELEMETRY & ANALYTICS</font></h2>
+  <h2><font color="#06B6D4">⚡ CORE CAPABILITIES & DOMAINS</font></h2>
   <br />
 
-  <table border="0">
+  <table width="90%" style="border-collapse: collapse; border: 1px solid #06B6D4; background-color: #020617;">
     <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=singhgurpreet042007dev&show_icons=true&theme=dark&bg_color=020617&title_color=22D3EE&text_color=F8FAFC&icon_color=06B6D4&border_color=06B6D4&hide_border=false" alt="GitHub Stats" width="400" />
+      <td width="33%" align="center" style="padding: 20px; border-right: 1px solid #06B6D4;">
+        <font color="#22D3EE" size="5"><b>🤖 AI & ML</b></font><br /><br />
+        <font color="#F8FAFC">LLM Integration, RAG Pipelines, Autonomous Agents & Neural Nets</font>
       </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhgurpreet042007-dev&layout=compact&theme=dark&bg_color=020617&title_color=22D3EE&text_color=F8FAFC&icon_color=06B6D4&border_color=06B6D4&hide_border=false" alt="Top Languages" width="400" />
+      <td width="33%" align="center" style="padding: 20px; border-right: 1px solid #06B6D4;">
+        <font color="#0EA5E9" size="5"><b>⚙️ BACKEND</b></font><br /><br />
+        <font color="#F8FAFC">Microservices, REST & GraphQL APIs, Relational & NoSQL Systems</font>
+      </td>
+      <td width="33%" align="center" style="padding: 20px;">
+        <font color="#06B6D4" size="5"><b>🎨 FRONTEND</b></font><br /><br />
+        <font color="#F8FAFC">Interactive Dashboards, Cyberpunk Design Systems, Motion UI</font>
       </td>
     </tr>
   </table>
 
-  <br />
-
-  <!-- Compact Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=singhgurpreet042007-dev&theme=dark&background=020617&border=06B6D4&stroke=06B6D4&ring=22D3EE&fire=0EA5E9&currStreakNum=22D3EE&sideNums=F8FAFC&sideLabels=22D3EE&dates=F8FAFC" alt="GitHub Streak" width="550" />
-
-  <br /><br />
-
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhgurpreet042007-dev&theme=react-dark&bg_color=020617&color=22D3EE&line=06B6D4&point=0EA5E9&area=true&hide_border=false" alt="Activity Graph" width="830" />
-
 </div>
 
 ---
-
-<!-- Developer Quote -->
-<div align="center">
-  <h2><font color="#22D3EE">💡 SYSTEM LOGS & QUOTES</font></h2>
-  <br />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Developer Quote" />
-</div>
-
-<br />
 
 <!-- Connect With Me -->
 <div align="center">
